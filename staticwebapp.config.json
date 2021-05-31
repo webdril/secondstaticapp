@@ -1,0 +1,14 @@
+{
+  "auth": {
+    "identityProviders": {
+      "azureActiveDirectory": {
+        "registration": {
+          "openIdIssuer": "https://login.microsoftonline.com/4ae48b41-0137-4599-8661-fc641fe77bea/v2.0",
+          "clientIdSettingName": "adeeebd3-d33f-4052-8d50-d39cadf6077e",
+          "clientSecretSettingName": "8tS~__W~l67D.O2al0prlDOe~47bJ~_MA5"
+        },
+        "userDetailsClaim": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name" 
+      }
+    }
+  }
+}
