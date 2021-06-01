@@ -9,7 +9,7 @@
         },
         "openIdConnectConfiguration": {
           "wellKnownOpenIdConfiguration": "https://login.microsoftonline.com/.auth/login/aad/callback"
-        }
+        },
         "userDetailsClaim": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name" 
       }
     }
