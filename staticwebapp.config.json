@@ -7,9 +7,6 @@
           "clientIdSettingName": "<MY_PROVIDER_CLIENT_ID_SETTING_NAME>",
           "clientSecretSettingName": "<MY_PROVIDER_CLIENT_SECRET_SETTING_NAME>"
         },
-        "openIdConnectConfiguration": {
-          "wellKnownOpenIdConfiguration": "https://login.microsoftonline.com/.auth/login/aad/callback"
-        },
         "userDetailsClaim": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name" 
       }
     }
